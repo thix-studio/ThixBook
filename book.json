@@ -1,0 +1,12 @@
+{
+  "title": "thixbook",
+  "author": "cxj",
+  "description": "nothing but notes",
+  "language": "en",
+  "plugins": ["disqus"],
+  "pluginsConfig": {
+    "disqus": {
+      "shortName": "xianjing"
+    }
+  }
+}
