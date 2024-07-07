@@ -10,4 +10,6 @@
         * [内存优化](memory.md)
         * [卡顿优化](jank.md)
         * [包体大小优化](package_size.md)
+* [Kotlin](Kotlin.md)
+    * [Kotlin内联函数](kotlin_inline.md)
 
